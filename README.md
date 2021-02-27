@@ -3,3 +3,8 @@ Expérimentations diverses de docker
 
 0/ Apprentissage du fichier Dockerfile
 1/ Tentative de faire tourner un script python dans un container depuis l'image Python
+
+# Etapes
+(sudo) docker pull python
+
+Enlever le sudo: https://docs.docker.com/engine/install/linux-postinstall/
