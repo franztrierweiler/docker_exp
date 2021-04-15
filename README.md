@@ -1,8 +1,9 @@
 # docker_exp
 Expérimentations diverses de docker
 
-0/ Apprentissage du fichier Dockerfile
-1/ Tentative de faire tourner un script python dans un container depuis l'image Python
+*Apprentissage du fichier Dockerfile
+*Tentative de faire tourner un script python dans un container depuis l'image Python
+*Super page: https://docker-curriculum.com/
 
 # Etape (expérimentation sur Linux AWS EC2)
 (sudo) docker pull python
