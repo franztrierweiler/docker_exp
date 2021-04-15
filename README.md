@@ -11,4 +11,4 @@ Expérimentations diverses de docker
 Enlever le sudo: https://docs.docker.com/engine/install/linux-postinstall/
 
 ## Etape (expérimentation sur Windows 10)
-Installation par l'installeur du poste. Essis basiques.
+Installation par l'installeur du poste. Essais basiques.
